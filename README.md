@@ -1,14 +1,21 @@
-## Hi there 👋
-
-**mataDEV-LOP/mataDEV-LOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![This is me](https://github.com/mataDEV-LOP/mataDEV-LOP/blob/main/Foto_CV.png?raw=true)
+```javascript
+const KeepCoding = {
+code: [
+"BLOG TÉCNICO SOBRE TECNOLOGÍAS DE LA INFORMACIÓN, ÁREA DE DESARROLLO DE SOFTWARE MULTIPLATAFORMA",
+"DESARROLLO WEB",
+"PROGRAMACIÓN",
+"INTERCONEXIÓN DE REDES",
+"PRINCIPIOS PARA IoT",
+"APLICACIONES WEB ORIENTADA A SERVICIOS",
+"DISEÑO DE APPS",
+"BASE DE DATOS",
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+},
+homePage: "https://github.com/mataDEV-LOP"
+};
+``````
