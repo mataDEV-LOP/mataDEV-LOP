@@ -1,6 +1,6 @@
 ![This is me](https://github.com/mataDEV-LOP/mataDEV-LOP/blob/main/Foto_CV.png?raw=true)
 ```javascript
-const KeepCoding = {
+const= {
 code: [
 "BLOG TÉCNICO SOBRE TECNOLOGÍAS DE LA INFORMACIÓN, ÁREA DE DESARROLLO DE SOFTWARE MULTIPLATAFORMA",
 "DESARROLLO WEB",
