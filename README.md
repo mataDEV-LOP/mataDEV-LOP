@@ -1,8 +1,3 @@
-<p align="center">
- <img width="100px" src="https://github.com/mataDEV-LOP/mataDEV-LOP/blob/main/Foto_CV.png?raw=true" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hola a todos👋 Soy Marco Arturo Mata Morales
 > Técnico en Área de Desarrollo Multiplataforma
 
