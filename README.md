@@ -1,20 +1,5 @@
 ### Hola a todos👋 Soy Marco Arturo Mata Morales
 > Técnico en Área de Desarrollo Multiplataforma
-code: [
-"BLOG TÉCNICO SOBRE TECNOLOGÍAS DE LA INFORMACIÓN, ÁREA DE DESARROLLO DE SOFTWARE MULTIPLATAFORMA",
-"DESARROLLO WEB",
-"PROGRAMACIÓN",
-"INTERCONEXIÓN DE REDES",
-"PRINCIPIOS PARA IoT",
-"APLICACIONES WEB ORIENTADA A SERVICIOS",
-"DISEÑO DE APPS",
-"BASE DE DATOS",
-technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
-]
-}
 
 <div>
  <p>
