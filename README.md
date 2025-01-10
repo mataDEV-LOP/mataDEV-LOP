@@ -1,11 +1,24 @@
 ### Hola a todos👋 Soy Marco Arturo Mata Morales
 > Técnico en Área de Desarrollo Multiplataforma
+code: [
+"BLOG TÉCNICO SOBRE TECNOLOGÍAS DE LA INFORMACIÓN, ÁREA DE DESARROLLO DE SOFTWARE MULTIPLATAFORMA",
+"DESARROLLO WEB",
+"PROGRAMACIÓN",
+"INTERCONEXIÓN DE REDES",
+"PRINCIPIOS PARA IoT",
+"APLICACIONES WEB ORIENTADA A SERVICIOS",
+"DISEÑO DE APPS",
+"BASE DE DATOS",
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+}
 
 <div>
  <p>
 Soy un desarrollador web de nivel medio capaz de crear una presencia web desde cero: desde el concepto, la navegación, el diseño y la programación. Soy experto en escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabajo duro y trabajo en equipo, y soy competente en una variedad de lenguajes de programación y herramientas web multimedia.
-
-Tengo buenas habilidades diseñando y codificando, así como la manera de desenvolverme de un obstaculo.
 </p>
 </div>
 
